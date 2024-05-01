@@ -117,11 +117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\CalloutTemplate\\CalloutTemplate.csproj",
+      "projectUniqueName": "E:\\repos\\CalloutTemplate\\CalloutTemplate.csproj",
       "projectName": "CalloutTemplate.net",
-      "projectPath": "D:\\repos\\CalloutTemplate\\CalloutTemplate.csproj",
+      "projectPath": "E:\\repos\\CalloutTemplate\\CalloutTemplate.csproj",
       "packagesPath": "C:\\Users\\lukni\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\CalloutTemplate\\obj\\",
+      "outputPath": "E:\\repos\\CalloutTemplate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lukni\\AppData\\Roaming\\NuGet\\NuGet.Config"
